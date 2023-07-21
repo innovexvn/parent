@@ -76,7 +76,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Innovex Parent Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/innovexvn/parent</url>
+            <url>https://maven.pkg.github.com/innovexvn/${artifactId}</url>
         </repository>
     </distributionManagement>
     <build>
