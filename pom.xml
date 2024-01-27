@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.1.2</version>
+        <version>3.2.2</version>
         <relativePath/>
     </parent>
     <groupId>com.phunghv</groupId>
@@ -18,7 +18,7 @@
         <java.version>17</java.version>
         <mapstruct.version>1.5.5.Final</mapstruct.version>
         <snake-yaml.version>2.0</snake-yaml.version>
-        <hutool.version>5.8.20</hutool.version>
+        <hutool.version>5.8.25</hutool.version>
     </properties>
     <dependencies>
         <dependency>
